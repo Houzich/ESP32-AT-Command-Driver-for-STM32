@@ -267,3 +267,4 @@ ESP32_WIFI_Status_t ESP32_WIFI_Connect(char *ssid, char *password);
 #endif /* ESP32_WIFI_H */
 
 /*****************************END OF FILE****/
+
